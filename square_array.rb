@@ -5,5 +5,5 @@ def square_array(array)
     product each_one * each_one
     next_one += 1
   end
-  product
+  
 end
